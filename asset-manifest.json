@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/my-form-builder/static/js/main.fbd26f41.js",
+    "index.html": "/my-form-builder/index.html",
+    "main.fbd26f41.js.map": "/my-form-builder/static/js/main.fbd26f41.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fbd26f41.js"
+  ]
+}
